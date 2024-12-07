@@ -5,7 +5,7 @@ import Dashboard from './Pages/Dashboard'
 import AllCourses from './Pages/All-Courses'
 import Profile from './Pages/Profile'
 import { Routes, Route} from 'react-router-dom'
-import CourseDetails from './Pages/courseDetailPage'
+import CourseDetails from './Pages/CourseDetailPage'
 
 
 
